@@ -1,0 +1,29 @@
+{
+  "name": "shivam_chauhan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "json-loader": "^0.5.7",
+    "leaflet": "^1.9.4",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-leaflet": "^4.2.1",
+    "sweetalert2": "^11.10.1",
+    "togeojson": "^0.16.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
